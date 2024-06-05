@@ -1,0 +1,65 @@
+{
+  "overview": [
+    {
+      "title": "Collections",
+      "total": "500",
+      "growth": "7"
+    },
+    {
+      "title": "Bounced Cheques",
+      "total": "100",
+      "growth": "2"
+    },
+    {
+      "title": "Sign-ups",
+      "total": "600",
+      "growth": "4",
+      "breakdown": [
+        { "breakdowntitle": "Analytics", "figure": "200" },
+        { "breakdowntitle": "Finance", "figure": "300" },
+        { "breakdowntitle": "Timetables", "figure": "100" }
+      ]
+    },
+    {
+      "title": "Total Revenue",
+      "total": "500,000",
+      "growth": "9",
+      "breakdown": [
+        { "breakdowntitle": "Analytics", "figure": "100,000" },
+        { "breakdowntitle": "Finance", "figure": "250,000" },
+        { "breakdowntitle": "Timetables", "figure": "150,000" }
+      ]
+    }
+  ],
+  "targets": [
+    { "targetTitle": "Analytics", "actualNo": 5000, "targetNo": 10000 },
+    { "targetTitle": "Timetables", "actualNo": 2000, "targetNo": 6000 },
+    { "targetTitle": "Finance", "actualNo": 3000, "targetNo": 4000 }
+  ],
+  "sign_ups": [
+    {
+      "title": "Analytics",
+      "bar_data": [
+        { "category": "I.G.C.SE", "figure": 2000, "bar_color": "#06d6a0" },
+        { "category": "Secondary", "figure": 2000, "bar_color": "#5f67ec" },
+        { "category": "Primary", "figure": 1000, "bar_color": "#015d06" }
+      ]
+    },
+    {
+      "title": "Timetables",
+      "bar_data": [
+        { "category": "I.G.C.SE", "figure": 500, "bar_color": "#06d6a0" },
+        { "category": "Secondary", "figure": 500, "bar_color": "#5f67ec" },
+        { "category": "Primary", "figure": 1000, "bar_color": "#015d06" }
+      ]
+    },
+    {
+      "title": "Finance",
+      "bar_data": [
+        { "category": "I.G.C.SE", "figure": 1000, "bar_color": "#06d6a0" },
+        { "category": "Secondary", "figure": 1200, "bar_color": "#5f67ec" },
+        { "category": "Primary", "figure": 800, "bar_color": "#015d06" }
+      ]
+    }
+  ]
+}
